@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "description": "try make package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sam Wang",
+            "email": "wangyipingyouxiang@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wangyipinglove\\TryMakePackage\\": "src/"
+        }
+    }
+}
