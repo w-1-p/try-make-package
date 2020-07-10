@@ -11,6 +11,7 @@
     "require": {
         "php": ">=7.0"
     },
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Wangyipinglove\\TryMakePackage\\": "src/"
